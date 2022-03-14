@@ -10,6 +10,7 @@ Nas horas vagas sou pai da Princesa Marina Cardoso, casado com a Késia meu amor
 
 Gosto de jogar basquete 🏀
 
+Sempre gostei da aérea de inovação, trabalhei com manutenção de computadores e atendimento ao público. Fui trabalhar dentro da área do metal mecânico, sempre buscando aprender sobre inovação, fiz curso técnico, comecei a trabalhar com programação de máquinas, (CNC).
 
 <!--
 **WillFens/WillFens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
