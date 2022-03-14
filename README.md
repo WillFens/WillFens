@@ -5,6 +5,7 @@
 
 Aluno da Growdev, 7ª Edição Programa Starter Desenvolvimento Web Full Stack.
 Nas horas vagas sou pai da Princesa Marina Cardoso, casado com a Késia meu amor 👪, sou muito apaixonado pela minha Família.
+
 Gosto de jogar basquete 🏀
 
 
