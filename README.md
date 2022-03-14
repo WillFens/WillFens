@@ -4,6 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:will.fenster@gmail.com)](mailto:will.fenster@gmail.com)
 
 Aluno da Growdev, 7ª Edição Programa Starter Desenvolvimento Web Full Stack.
+
 Nas horas vagas sou pai da Princesa Marina Cardoso, casado com a Késia meu amor 👪, sou muito apaixonado pela minha Família.
 
 Gosto de jogar basquete 🏀
