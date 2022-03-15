@@ -2,9 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-fensterseifer-467170198/)](https://www.linkedin.com/in/william-fensterseifer-467170198/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:will.fenster@gmail.com)](mailto:will.fenster@gmail.com)
-<img 
-     
 
+     
 Aluno da Growdev, 7ª Edição Programa Starter Desenvolvimento Web Full Stack.
 Estou no começo do programa, aprendendo e desenvolvendo em html.
 
